@@ -44,3 +44,7 @@ lib/
 - Push notifications (Firebase Cloud Messaging) for event reminders
 - Admin view for pastoral/admin roles to see registration numbers
 - Year-end ministry survey screen
+
+## Screenshots
+<img width="609" height="939" alt="Screenshot_5-8-2026_23721_localhost" src="https://github.com/user-attachments/assets/04009d71-9538-4b57-9687-4845b2411b67" />
+
