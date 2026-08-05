@@ -47,4 +47,10 @@ lib/
 
 ## Screenshots
 <img width="609" height="939" alt="Screenshot_5-8-2026_23721_localhost" src="https://github.com/user-attachments/assets/04009d71-9538-4b57-9687-4845b2411b67" />
+<img width="615" height="944" alt="Screenshot_5-8-2026_23927_localhost" src="https://github.com/user-attachments/assets/c3fbc4dd-e9e6-49b5-acd5-a1149ed5d975" />
+<img width="611" height="944" alt="Screenshot_5-8-2026_2393_localhost" src="https://github.com/user-attachments/assets/84d8d210-989c-40b8-85d7-e0ac155f46af" />
+<img width="614" height="939" alt="Screenshot_5-8-2026_23829_localhost" src="https://github.com/user-attachments/assets/5bb6fdb7-3c11-4f35-ac4e-8b4d7ccd05d6" />
+<img width="611" height="941" alt="Screenshot_5-8-2026_231029_localhost" src="https://github.com/user-attachments/assets/89ace03c-2a1e-44e1-90b4-764574313d4b" />
+<img width="611" height="935" alt="Screenshot_5-8-2026_23101_localhost" src="https://github.com/user-attachments/assets/d49d5f27-a4bf-4e89-a4e9-4d18ec192269" />
+
 
